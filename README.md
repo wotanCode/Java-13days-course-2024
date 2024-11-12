@@ -4,6 +4,8 @@ Proyectos en Java basado en el curso del ingeniero Ubaldo Acosta
 
 Día 01: CalculadoraApp
 
+<hr/>
+
 ### ¡Sigueme en mis redes!
 
 [![GitHub Followers](https://img.shields.io/github/followers/wotanCode?style=social)](https://github.com/wotanCode)
