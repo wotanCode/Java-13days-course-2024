@@ -1,5 +1,7 @@
 ### SistemaEstudiantes
 
+Aplicación de consola que implementa un sistema CRUD, permitiendo la interacción con una base de datos SQL. La aplicación ofrece funcionalidades para crear, leer, actualizar y eliminar registros, facilitando la gestión de datos de manera eficiente desde la línea de comandos.
+
 #### Instrucciones:
 
 Este proyecto fue creado utilizando la tecnología Maven, por lo que al conectarse a una base de datos, requiere un conector; en este caso, se ha usado el conector `MySQL Connector Java` del Maven Repository. Este ya se encuentra configurado en el archivo `pom.xml`, y solo requiere activar la descarga del paquete.
