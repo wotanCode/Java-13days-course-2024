@@ -2,7 +2,7 @@
 Aplicación de consola en Java para gestionar un catálogo de películas favoritas, con la capacidad de agregar, listar y buscar películas. La aplicación también permite almacenar la información en disco, creando archivos para persistencia.
 
 #### Arquitectura
-Modelo-Vista-Servicio (MVS), también conocida como una variante de Modelo-Vista-Controlador (MVC). La aplicación organiza el código en tres capas principales para separar responsabilidades y facilitar el mantenimiento.
+Modelo-Vista-Controlador (MVC), también conocida como una variante de Modelo-Vista-Controlador (MVC). La aplicación organiza el código en tres capas principales para separar responsabilidades y facilitar el mantenimiento.
 
 - dominio/: Define el modelo de datos, representado por la clase Pelicula.
 - servicio/: Contiene la lógica de negocio mediante la interfaz IServicioPeliculas y sus implementaciones ServicioPeliculasArchivo y ServicioPeliculasLista.
