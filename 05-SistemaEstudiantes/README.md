@@ -10,7 +10,7 @@ Adicionalmente, se necesita una base de datos que debe llevar por nombre `estudi
 
 #### Temas:
 
-- Patrón DAO.
-- Maven.
+- Patrón DAO: Es una forma de organizar el código que se conecta a la base de datos, para que esté separado del resto de la aplicación. Así, el código que habla con la base de datos está en un solo lugar, facilitando su mantenimiento.
+- Maven: Es una herramienta que ayuda a manejar el proyecto. Con Maven, puedes agregar bibliotecas que necesitas y este las descarga y organiza automáticamente, evitando que tengas que buscar y manejar los archivos tú mismo.
 - Conexión directa a bases de datos.
-- CRUD a base de datos.
+- CRUD a bases de datos.
