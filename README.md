@@ -7,6 +7,7 @@ Proyectos en Java basado en el curso del ingeniero Ubaldo Acosta
 - Día 03: VentaComputadoras
 - Día 04: CatologoPeliculas
 - Día 05: SistemaEstudiantes
+- Día 06: SistemaEstudiantesSpring
 
 <hr/>
 
